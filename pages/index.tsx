@@ -47,7 +47,7 @@ export default function Index(props: FactProps) {
             </div>
 
         ))} */}
-        <img src={dataFact.results[0].url} alt="" />
+        <Image src={dataFact.results[0].url} alt="ayam" />
         {/* <Image src={dataFact.results[0].url} alt="" width={500} height={500} /> */}
         
       </div>
